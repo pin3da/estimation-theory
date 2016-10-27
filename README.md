@@ -20,7 +20,14 @@ Estimation theory course at UTP
   
 - [Laboratories](https://github.com/pin3da/estimation-theory/tree/master/labs) : Laboratory reports with some discussion
   - [Gaussian Mixture Model](https://github.com/pin3da/estimation-theory/blob/master/labs/GMM.ipynb)
-  
+  - [Bayesian Inference and Sampling](https://github.com/pin3da/estimation-theory/tree/master/labs/lab2)
+    - [Bayesian Linear regression](https://github.com/pin3da/estimation-theory/blob/master/labs/lab2/Bayesian%20regression.ipynb)
+    - [Sampling I](https://github.com/pin3da/estimation-theory/blob/master/labs/lab2/Sampling.ipynb)
+    - [Sampling II](https://github.com/pin3da/estimation-theory/blob/master/labs/lab2/SamplingUnknownVarianceAndMean.ipynb)
+  - [MCMC](https://github.com/pin3da/estimation-theory/tree/master/labs/lab3)
+    - [PPCA (EM + Gibbs)](https://github.com/pin3da/estimation-theory/blob/master/labs/lab3/PPCA%20%28EM%20%2B%20Gibbs%29.ipynb)
+    - [Metropolis Hastings](https://github.com/pin3da/estimation-theory/blob/master/labs/lab3/MCMCMetropolisHastings.ipynb)
+    - [Gibbs](https://github.com/pin3da/estimation-theory/blob/master/labs/lab3/MCMCGibbs.ipynb)
 
 
 ---- 
